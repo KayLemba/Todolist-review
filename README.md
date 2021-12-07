@@ -7,7 +7,7 @@
 ## SCREEN SHOT
 ![screenshot](./interactive.png)
 ## Live Demo
-[Click Here to view live version](https://kaylemba.github.io/Todolist-review/)
+[Click Here to view live version](https://kaylemba.github.io/Todolist-review/dist/)
 ## Built With
 ### Major languages
 - HTML
@@ -22,11 +22,11 @@
 ## Getting Started
 *Instructions on how to access my project locally.**
  To Access my project locally please follow the following instructions;
-1. Enter this url:  https://kaylemba.github.io/Todolist-review/ in your web browser.
+1. Enter this url:  https://kaylemba.github.io/Todolist-review/dist/ in your web browser.
 2. Once opened navigate to the top left level of the project a green code download button will be visible on the righthand side.
 3. Select download Zip option from drop down menu.
 4. Once the download is complete you will be able to access my project locally.
-Here is my repository link:  https://kaylemba.github.io/Todolist-review/
+Here is my repository link:  https://kaylemba.github.io/Todolist-review/dist/
 
 
 ## Author
